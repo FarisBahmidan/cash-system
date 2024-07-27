@@ -205,7 +205,7 @@ header {
         &::before {
           position: absolute;
           content: "";
-          background-image: url(/img/Logo.svg);
+          background-image: url(img/Logo.svg);
           width: max(7vw, 7rem);
           height: max(7vw, 7rem);
           background-repeat: no-repeat;
@@ -225,7 +225,7 @@ header {
         &::after {
           position: absolute;
           content: "";
-          background-image: url(/img/Dots.svg);
+          background-image: url(img/Dots.svg);
           width: max(7vw, 7rem);
           height: max(7vw, 7rem);
           background-repeat: no-repeat;
